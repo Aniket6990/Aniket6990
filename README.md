@@ -10,7 +10,7 @@
   <li>📫 How to reach me **aniketsingh6990@gmail.com**</li>
 </ul>
 
-<h1>Weapons ⚔/></h1>
+<h1>Weapons ⚔</h1>
 <h2>👨‍💻 Programming languages</h2>
 <p align="left"> 
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
