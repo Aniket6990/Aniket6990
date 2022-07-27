@@ -44,6 +44,6 @@
 
 |<img align=center alt="mukulrajpoot262610's streak" src="https://github-readme-stats.vercel.app/api?username=aniket6990&show_icons=true&count_private=true&include_all_commits=true"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=aniket6990&ring=4D82DD&fire=4D82DD&currStreakNum=4D82DD&currStreakLabel=4D82DD" />
 |---|---|
-|<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aniket6990&show_icons=true&locale=en&layout=compact" alt="aniket6990" width="100%"/>|
-|---|---|
+|<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aniket6990&show_icons=true&locale=en&layout=compact" alt="aniket6990" width="100%"/>|<img align="left" src="https://activity-graph.herokuapp.com/graph?username=aniket6990&bg_color=FFFFFF&line=4D82DD&color=4D82DD" alt="aniket6990" width="600"/>|
+
 
