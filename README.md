@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Web and Blockchain Application developer from India</h3>
 
 
-<h1>About Me <img src="https://media.giphy.com/media/r3J4ibKEk5MafUxFue/giphy.gif" width="48" /></h1>
+<h1>About Me 😎</h1>
 <ul>
   <li>Currently, learning Machine learning and Blockchain core development</li>
   <li>persuing my B.E CSE from Chandigarh University 🎓</li>
@@ -16,5 +16,5 @@
 
 
 
-|<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aniket6990&show_icons=true&locale=en&layout=compact" alt="aniket6990" width="350" height="220" />|<img align=center alt="mukulrajpoot262610's streak" src="https://github-readme-stats.vercel.app/api?username=mukulrajpoot262610&show_icons=true&count_private=true&include_all_commits=true"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=mukulrajpoot262610" />
+|<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aniket6990&show_icons=true&locale=en&layout=compact" alt="aniket6990" width="350" height="220" />|<img align=center alt="mukulrajpoot262610's streak" src="https://github-readme-stats.vercel.app/api?username=aniket6990&show_icons=true&count_private=true&include_all_commits=true"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=aniket6990" />
 |---|---|---|
