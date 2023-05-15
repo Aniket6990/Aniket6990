@@ -8,17 +8,13 @@
   <img align="right" top="450" height="280" width="380" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
- - 🔭 I’m currently working in <a href="https://mathcody.com/" target="blank">Math & Cody</a>
-
-- 🌱 I’m Full stack Blockchain and MERN Developer.
-
 - 🎓 I’m currently persuing BE CSE from <a href="[https://mathcody.com/](https://www.cuchd.in/)" target="blank">Chandigarh University</a>
-
-- 🌱 I’m currently learning Blockchain Core and Infra.
 
 - 💬 Ask me about **Blockchain Development**
 
 - 📫 How to reach me **aniketsingh6990@gmail.com**
+
+- 🌱 Connect with me on <a href="https://www.linkedin.com/in/aniket-singh-11275a213/"> LinkedIn </a>
 
 
 <h2>Weapons ⚔</h2>
