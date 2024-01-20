@@ -8,8 +8,6 @@
   <img align="right" top="450" height="280" width="380" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- 🎓 I’m currently persuing BE CSE from <a href="[https://mathcody.com/](https://www.cuchd.in/)" target="blank">Chandigarh University</a>
-
 - 💬 Ask me about **Blockchain Development**
 
 - 📫 How to reach me **aniketsingh6990@gmail.com**
