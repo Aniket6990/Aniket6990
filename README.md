@@ -1,10 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aniket Singh</h1>
 
-
-<h2>About Me 😎</h2>
-
-- 💬 Ask me about **Blockchain Development**
-
 - 📫 How to reach me **aniketsingh6990@gmail.com**
 
 - 🌱 Connect with me on <a href="https://www.linkedin.com/in/aniket-singh-11275a213/"> LinkedIn </a>
